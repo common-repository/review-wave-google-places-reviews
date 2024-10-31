@@ -1,0 +1,28 @@
+.gplaces-rw-clear { display: block; overflow: hidden; }
+.gplaces-rw-hidden { display: none; }
+.gplaces-rw-wrap { font-family: Arial,'Lucida Grande','Bitstream Vera Sans',Verdana,sans-serif; }
+.gplaces-rw-place-wrap .gplaces-rw-place-img { float: left; width: 40%; }
+.gplaces-rw-place-wrap .gplaces-rw-place-info { float: left; width: 60%; }
+.gplaces-rw-place-img img { height: 60px; width: 60px }
+.gplaces-rw-place-info .place-name { color: #C41200; font-size: 15px; font-weight: bold; }
+.gplaces-rw-place-info .place-rating-stars { display: block; }
+.gplaces-rw-place-info .place-rating-source { float: right; margin-top: 0px; max-height: 16px; }
+.gplaces-rw-place-info .place-review-count { }
+.gplaces-rw-address-wrap { color: #888; font-size: .9em; font-style: italic; line-height: 1.3em; margin-bottom: 1em; }
+.gplaces-rw-reviewer-img { float: left; width: 40%; }
+.gplaces-rw-reviewer-img img { height: 60px; width: 60px }
+.gplaces-rw-reviewer-info { float: left; width: 60%; }
+.gplaces-rw-reviewer-info .reviewer-name { color: #427fed; }
+.gplaces-rw-reviewer-info .reviewer-rating-date { color: #888; font-style: italic; }
+.gplaces-rw-reviewer-info .reviewer-rating-stars { display: block; }
+.gplaces-rw-comments-wrap { font-size: 1.1em; margin: .5em 0 1em; }
+.gplaces-rw-comments-wrap .full-review { display: block; }
+.gplaces-rw-rating-wrap { }
+.gplaces-rw-rating-container { display: inline-block; height: 18px; position: relative; width: 84px; }
+.gplaces-rw-rating-color { background: transparent url(rating_color.png) no-repeat top left; left: 0; height: 16px; position: absolute; top: 0; width: 84px; z-index: 2; }
+.gplaces-rw-rating-gray { background: transparent url(rating_gray.png) no-repeat top left; left: 0; height: 16px; position: absolute; top: 0; width: 84px; z-index: 1; }
+.gplaces-rw-settings .shortcode-info dl { margin: 0 2em; }
+.gplaces-rw-settings .shortcode-info dt { font-weight: bold; }
+.review-wave-logo-wrap { text-align: center; }
+.review-wave-logo-wrap { color: #CCC; }
+.review-wave-logo-wrap img { max-height: 12px; }
